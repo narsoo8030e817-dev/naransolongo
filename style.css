@@ -1,0 +1,13 @@
+body{
+                background-color: powderblue;
+                
+            }
+
+            p {
+                    color: royalblue;
+                    font-size: 30px;
+                    text-align: center;
+                    font-family: 'Arial', sans-serif;
+                    border: 3px solid black;
+                }
+                
